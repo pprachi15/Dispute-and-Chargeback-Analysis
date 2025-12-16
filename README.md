@@ -1,4 +1,4 @@
-# Day 15: Dispute and Chargeback Intelligence Using SQL  
+# Dispute and Chargeback Intelligence Using SQL  
 This project explores dispute and chargeback behavior using SQL to understand where financial institutions face preventable losses and how payment flows influence customer trust.
 
 This work is part of my 30 Day Applied Business Strategy Challenge.
